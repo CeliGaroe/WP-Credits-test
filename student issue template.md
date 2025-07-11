@@ -1,6 +1,7 @@
 ## Onboarding (Week 1-4)
 
 - [ ] Create your [WordPress profile](https://login.wordpress.org/register)
+- [ ]   This is my profile: [https://profiles.wordpress.org/celigaroe/](https://profiles.wordpress.org/celigaroe/)
 - [ ] [Open source basics and WordPress](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)
 - [ ] [How decisions are made in the WordPress project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)
 - [ ] [Community meeting etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)
